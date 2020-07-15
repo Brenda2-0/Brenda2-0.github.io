@@ -82,7 +82,18 @@ iframe {
   background-image: url('../306295BC-D611-4BA3-B27A-838EABEA749C.jpeg');
   background-position: center;
     }
-
+.banner-text {
+  display:inline-block;
+  margin: auto;
+  padding: 3rem;
+  width: auto;
+  text-align: center; 
+  background:#3ab8c9;
+  color:white;
+  border: 18px solid #8183bb
+  font-size: 3.5rem;
+}
+  
 
 
 
