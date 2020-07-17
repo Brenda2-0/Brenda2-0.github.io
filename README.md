@@ -3,4 +3,6 @@ Starter code for website where I'm going to talk about my favorite things.
 
 # Link
 https://morganton-coding-camp.github.io/Brenda2-0.github.io/.
-https://rb.gy/ppsmyy short url
+
+short url
+https://rb.gy/ppsmyy
