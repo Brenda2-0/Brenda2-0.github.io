@@ -93,7 +93,23 @@ iframe {
   border; 18px solid #8183bb
   font-size: 3.5rem;
 }
-  
+
+.My-favorite-color{
+background: #3ab8c9
+  padding: 2rem;
+  color: black;
+}
+
+.favorite-food{
+ background: #603177
+  padding: 2rem;
+  color: white;
+}
+.favorite-pastime{
+  background: #ffff62
+  padding: 2rem;
+  color: black;
+
 
 
 
